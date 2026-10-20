@@ -1,6 +1,6 @@
 # CS-250-Software-Development-Lifecycle
 
-1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+**1. How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?**
    To interpret user needs, analyzing user's desired outcomes to establish clear system inputs and technical boundaries will help build the program in small, iterative slices. Creating user stories helps this process by translating complex or vague requirements into a simple, standardized "As a... I want to... So that..." template that keeps the development team focused on end-user value.
    
 2. How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
